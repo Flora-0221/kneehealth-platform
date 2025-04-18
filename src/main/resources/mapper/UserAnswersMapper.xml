@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.JX.mapper.UserAnswersMapper">
+    <select id="selectByUserIdAndSectionId" resultType="com.JX.dto.UserAnswerDTO">
+        SELECT * FROM user_answers
+        WHERE user_id = #{userId} AND section_id = #{sectionId}
+    </select>
+</mapper>
