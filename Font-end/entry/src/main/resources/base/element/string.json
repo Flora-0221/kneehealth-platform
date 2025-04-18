@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "健行助手"
+    },
+    {
+      "name": "welcome_title",
+      "value": "感谢您使用健行助手"
+    },
+    {
+      "name": "Span_one",
+      "value": "请您了解，您注册成为健行助手的用户可以使用本软件的功能，在您注册前您仍然可以浏览本软件中得到功能和服务内容。"
+    },
+    {
+      "name": "Span_personal_privacy",
+      "value": "《敏感个人信息处理授权协议》"
+    },
+    {
+      "name": "Span_two1",
+      "value": "为了更好的保护您的隐私和权力，我们定制了"
+    },
+    {
+      "name": "Span_two2",
+      "value": "，特此向您说明，此外我们将通过"
+    },
+    {
+      "name": "Span_user_protocol",
+      "value": "《用户协议》 《健行助手隐私政策》"
+    },
+    {
+      "name": "Span_two3",
+      "value": "帮助您了解我们收集、使用、存储和共享个人信息的情况。"
+    },
+    {
+      "name": "Span_user_privacy",
+      "value": "《健行助手隐私政策》"
+    },
+    {
+      "name": "Span_three",
+      "value": "如您同意前面所述内容，请点击同意并继续使用本软件，我们会不断完善技术和安全管理，保护您的个人信息。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/MainIndex",
+    "pages/login",
+    "pages/register",
+    "pages/chooseSexPage",
+    "pages/chooseJobPage",
+    "pages/Form/AKSForm",
+    "pages/Form/PersonInfoForm",
+    "pages/Form/KOOSForm",
+    "pages/Form/PROMISForm",
+    "pages/Form/SFForm",
+    "pages/Form/WOMACForm",
+    "pages/FormPage",
+    "pages/TestAxios",
+    "pages/Form/VAS",
+    "pages/findPassword",
+    "pages/setting",
+    "pages/change",
+    "pages/setting_personal_info",
+    "pages/ShowScoreResult",
+    "pages/DMainIndex",
+    "pages/ClientManage",
+    "pages/ClientDetail",
+    "pages/PatientDetail"
+  ]
+}

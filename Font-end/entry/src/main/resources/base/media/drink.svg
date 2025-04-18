@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="57" viewBox="0 0 118 57" fill="none">
+<rect  x="0" y="0" width="6" height="57" rx="3"    fill="#EC744A" >
+</rect>
+<rect  x="14" y="28" width="6" height="29" rx="3"    fill="#EC744A" >
+</rect>
+<path     fill="#EC744A"  d="M31 12L31 12C32.6569 12 34 13.3431 34 15L34 54C34 55.6569 32.6569 57 31 57L31 57C29.3431 57 28 55.6569 28 54L28 15C28 13.3431 29.3431 12 31 12Z">
+</path>
+<rect  x="42" y="19" width="6" height="38" rx="3"    fill="#EC744A" >
+</rect>
+<rect  x="56" y="4" width="6" height="53" rx="3"    fill="#ECECEC" >
+</rect>
+<rect  x="70" y="14" width="6" height="43" rx="3"    fill="#ECECEC" >
+</rect>
+<rect  x="84" y="41" width="6" height="16" rx="3"    fill="#ECECEC" >
+</rect>
+<rect  x="98" y="28" width="6" height="29" rx="3"    fill="#ECECEC" >
+</rect>
+<rect  x="112" y="20" width="6" height="37" rx="3"    fill="#ECECEC" >
+</rect>
+</svg>

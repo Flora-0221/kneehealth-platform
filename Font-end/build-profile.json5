@@ -1,0 +1,49 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\lenovo\\.ohos\\config\\default_HealthcareProjects_BlvMoNpDq2ygzdNFvNLefsbGjE4zSDAPyTF61ypedW8=.cer",
+          "storePassword": "0000001A99213887209D07D4C9284E371CE7550B7359C3FD57F9F7BD815E6A065F276C412C85CD556172",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001A55AA8747816E4981C78EDEF6CC21E0C9DF41FD1BD63A5C83683879B68F53A540C8240B53EE02",
+          "profile": "C:\\Users\\lenovo\\.ohos\\config\\default_HealthcareProjects_BlvMoNpDq2ygzdNFvNLefsbGjE4zSDAPyTF61ypedW8=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\lenovo\\.ohos\\config\\default_HealthcareProjects_BlvMoNpDq2ygzdNFvNLefsbGjE4zSDAPyTF61ypedW8=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
