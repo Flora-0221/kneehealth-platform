@@ -1,4 +1,4 @@
-# kneehealth-platform: Smart Post-TKA Rehabilitation Monitoring System
+# Kneehealth-Platform: Smart Post-TKA Rehabilitation Monitoring System
 
 ## 📌 Overview
 
