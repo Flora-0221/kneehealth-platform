@@ -1,0 +1,9 @@
+
+import promptAction from '@ohos.promptAction';
+
+@Component
+export default struct DMineContent {
+  build() {
+
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "yellow_warning",
+      "value": "#fdce4c"
+    },{
+      "name": "blue_default",
+      "value": "#3ea6ea"
+    },{
+      "name": "green_great",
+      "value": "#2dcc70"
+    },{
+      "name": "green_app",
+      "value": "#2a6049"
+    },{
+      "name": "red_danger",
+      "value": "#f47473"
+    },{
+      "name": "orange_default",
+      "value": "#f8795c"
+    },{
+      "name": "gray_default",
+      "value": "#8f8a8888"
+    }
+  ]
+}
